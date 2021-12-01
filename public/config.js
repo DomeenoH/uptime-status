@@ -2,7 +2,7 @@
 window.Config = {
 
   // 站点名
-  SiteName: 'Uptime Status',
+  SiteName: '多米诺的服务监控',
 
   // 站点链接
   SiteUrl: '/',

@@ -38,7 +38,7 @@ window.Config = {
   Navi: [
     {
       text: '多米诺的主页',
-      url: 'https://dicer.club/'
+      url: 'https://dominoh.com'
     },
     {
       text: '博客',

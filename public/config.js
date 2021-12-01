@@ -11,15 +11,16 @@ window.Config = {
   // 只需填写域名部分，默认为官网域名
   // 因官网 API 时不时的会 CROS 报错，可填自定义反代域名
   // 详见 https://github.com/yb/uptime-status/ 说明
-  ApiDomain: 'api.uptimerobot.com',
+  ApiDomain: 'production.uptime.domino.workers.dev',
 
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only 两只 Api Key
   ApiKeys: [
-    'm784488775-dd1ad84b209c05f8e185c33e',
-    'm784490063-7b5da437e7f1e0d67613714d',
-    'm784497419-de55aa09902ccb3ab22d548a',
-    'm784496436-71a4bf7b1e3bdf7756be131b',
+    'm789913800-0c30d09e3ad41c3bc4d63185',
+    'm789913796-20e576a08a1c7774c5691e39',
+    'm789913813-e9837150219ef974bd6d685a',
+    'm789913817-7a1bdcbb2fd517d896c0aa49',
+    'm789913767-fd0052a96a3aa0e3a67f1e59',
   ],
 
   // 是否显示监测站点的链接
@@ -33,12 +34,12 @@ window.Config = {
   // 导航栏菜单
   Navi: [
     {
-      text: 'Homepage',
-      url: 'https://status.org.cn/'
+      text: '多米诺的主页',
+      url: 'https://dicer.club/'
     },
     {
-      text: 'GitHub',
-      url: 'https://github.com/yb/uptime-status'
+      text: '博客',
+      url: 'https://blog.dominoh.com'
     }
   ]
 };
